@@ -3,6 +3,11 @@
 
 # Prerequisites
 ```shell
+
+# UV
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
+# dotenvx
 curl -sfS https://dotenvx.sh | sudo sh
 dotenvx help
 ```
